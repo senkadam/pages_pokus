@@ -5,4 +5,4 @@ Publikované programové teze jsou volně vystaveny pro stávající i budoucí 
 
 Rozcestník s kategoriemi najdete na [index.md](/index.md)
 
-## Pravidla pro publikace do manuálu moderního města
+## Pravidla pro publikace do manuálu funkčního města
