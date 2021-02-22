@@ -25,5 +25,6 @@ Jednotlivé návhry naleznete [zde](/kategorie/demokracie.md).
 
 ## Transparentnost 
 
-Jednotlivé kroky, které pomohou zlepšít dopravu ve vašem městě se nacházejí [zde](/kategorie/transparentnost.md).
+
+Jednotlivé návhry naleznete [zde](/kategorie/transparentnost.md).
 
