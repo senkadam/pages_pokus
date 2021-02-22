@@ -1,3 +1,6 @@
+## Autoři
+ - [senkadam](https://twitter.com/senkadam) - [senkadam`[at]`gmail.com](mailto:senkadam@gmail.com)
+
 ## Kategorie
  - [Doprava](#doprava)
  - fdgsdf
@@ -21,6 +24,8 @@
  - f
  - sdf
  - sdf
+
+
 
 ### Doprava 
 
